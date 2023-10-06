@@ -1,0 +1,4 @@
+Todos os testes foram feitos na página de testes do curso "ChatGPT Prompt Engineering for Developers" da DeepLearning.AI.
+Algumas respostas (como o resultado do Json produzido pelo programa) não são perfeitas, mas noto que o programa não alucina
+tanto quanto imaginava. O programa manteve o curso da conversa dentro do esperado e soube lidar com diversas mensagens de input.
+De um modo geral, me sinto muito satisfeita com o projetinho criado.
